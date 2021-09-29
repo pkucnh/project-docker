@@ -1,0 +1,4 @@
+2021/09/27 15:00:47 [error] 31#31: *1 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 172.27.0.1, server: dev.demo.api, request: "GET / HTTP/1.1", host: "localhost"
+2021/09/27 19:00:11 [error] 30#30: *2 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 172.29.0.1, server: laravel.docker.test, request: "GET / HTTP/1.1", host: "localhost"
+2021/09/27 19:03:27 [error] 30#30: *3 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 172.29.0.1, server: laravel.docker.test, request: "GET / HTTP/1.1", host: "localhost"
+2021/09/27 19:09:55 [error] 30#30: *5 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 172.29.0.1, server: laravel.docker.test, request: "GET / HTTP/1.1", host: "laravel.docker.test"
